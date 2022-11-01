@@ -17,6 +17,6 @@ class ItemModel {
   }
 
   String relaseDateFormatted() {
-    return DateFormat.MMMEd().format(relaseDate);
+    return DateFormat.yMMMEd().format(relaseDate);
   }
 }
