@@ -29,6 +29,13 @@
             {
               "client_id": "28430214678-a985u0t602vo1qmuk8tu1i2crejbvlga.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "28430214678-c1vvq3aetdh1nfht2iolaht7j0htnqk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.klaudiakazimierczak.cantwait28"
+              }
             }
           ]
         }
